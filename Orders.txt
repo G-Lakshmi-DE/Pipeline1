@@ -1,1 +1,3 @@
-This is information related to order tables."This is modified through command prompt" 
+This is information related to order tables.
+"This is modified through command prompt" 
+This is done in notepad
